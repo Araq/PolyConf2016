@@ -6,7 +6,7 @@
 
 .. raw:: html
 
-  <p class="pic"><img alt="UE4 Screenshot" src="unrealengine4.png" scale=90% /></p>
+  <p class="pic"><img alt="UE4 Screenshot" src="unrealengine4.png" scale="60%" /></p>
 
 
 ..
@@ -645,4 +645,5 @@ Nim in Action
 
   <p class="pic"><img alt="Nim in Action Screenshot" src="nim_in_action.png" scale=100% /></p>
 
+http://nim-lang.org/manning
 
